@@ -26,18 +26,5 @@ efef
 ![Imagen de google](https://afinde-production.s3.amazonaws.com/uploads/859b1946-3b00-44d3-b7ff-2acd2ce3aa64.png)
 
 
-
----
-git merge nombre_rama
----
-
-oho
----
-
-
-
-
-
-
-git remote -v 
----
+ hola
+ 
